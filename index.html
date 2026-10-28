@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- =================================================================
+       INDEX.HTML — THE CONTENT OF YOUR SITE
+       -----------------------------------------------------------------
+       Look for lines marked EDIT. Change only the words between the
+       tags, not the tags themselves. Example:
+
+           <h1>Your Name</h1>   becomes   <h1>Jordan Lee</h1>
+
+       Keep everything with < > around it exactly as it is.
+       Colors and fonts live in style.css, not here.
+       ================================================================= -->
+
+  <!-- EDIT: The title shown in the browser tab and in Google results. -->
+  <title>Your Name | Your One-Line Positioning</title>
+
+  <!-- EDIT: The description shown in Google and when your link is shared.
+       One or two sentences from personal_brand.md (Positioning). -->
+  <meta name="description" content="Short description of who you are and who you help.">
+
+  <!-- EDIT: Link previews on LinkedIn, Instagram, iMessage, etc.
+       Use the same title and description as above. -->
+  <meta property="og:title" content="Your Name | Your One-Line Positioning">
+  <meta property="og:description" content="Short description of who you are and who you help.">
+  <meta property="og:image" content="images/headshot.jpg">
+
+  <!-- FONTS: If you changed fonts in style.css, replace this whole line
+       with the matching line from the README (Font pairings section). -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- =================================================================
+       NAVIGATION BAR
+       ================================================================= -->
+  <nav class="nav">
+    <div class="container">
+      <!-- EDIT: Your name as it appears in the top-left corner. -->
+      <a class="nav-name" href="#top">Your Name</a>
+
+      <!-- No edits needed: these jump to sections lower on the page. -->
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main id="top">
+
+    <!-- ===============================================================
+         SECTION 1: HERO — the first thing a visitor sees.
+         Goal: in five seconds they know who you are and what to do next.
+         =============================================================== -->
+    <section class="hero">
+      <div class="container">
+        <div>
+          <!-- EDIT: A short label above your name, e.g. "Business Student & Content Creator". -->
+          <span class="section-label">Your Role or Title</span>
+
+          <!-- EDIT: Your full name. -->
+          <h1>Your Name</h1>
+
+          <!-- EDIT: Your positioning statement from personal_brand.md.
+               One sentence: who you are, who you help, how. -->
+          <p class="hero-tagline">One sentence that says who you are, who you help, and what makes your point of view different.</p>
+
+          <div class="hero-buttons">
+            <!-- EDIT: Your main call to action. Change the words only.
+                 It jumps to your Contact section. -->
+            <a class="button" href="#contact">Work With Me</a>
+
+            <!-- EDIT: Secondary button. Change the words only. -->
+            <a class="button button-outline" href="#projects">See My Work</a>
+          </div>
+        </div>
+
+        <!-- IMAGE: Upload your photo to the images folder named exactly
+             headshot.jpg (all lowercase). It replaces the placeholder.
+             EDIT: the alt text describes the photo for screen readers. -->
+        <img class="hero-photo" src="images/headshot.jpg" alt="Portrait of Your Name">
+      </div>
+    </section>
+
+    <!-- ===============================================================
+         SECTION 2: ABOUT — your story and point of view.
+         =============================================================== -->
+    <section id="about">
+      <div class="container about-grid">
+        <div>
+          <span class="section-label">About</span>
+          <!-- EDIT: A headline for your story. Make it a statement, not "About Me". -->
+          <h2>A headline that sums up your story</h2>
+        </div>
+
+        <div class="about-text">
+          <!-- EDIT: Paragraph 1 — who you are and where you come from. -->
+          <p>Write two or three sentences about who you are, what you study or do, and the experience that shaped you.</p>
+
+          <!-- EDIT: Paragraph 2 — your point of view (POV from personal_brand.md).
+               What do you believe that others in your field don't? -->
+          <p>Write two or three sentences about what you believe, what you care about, and how that shows up in your work.</p>
+
+          <!-- EDIT: Paragraph 3 — where you're headed and who you want to meet.
+               Delete this whole line if you only need two paragraphs. -->
+          <p>Write one or two sentences about what you're working toward and the opportunities you're looking for.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===============================================================
+         SECTION 3: PROJECTS — proof of what you can do.
+         Three cards. Each has an image, a title, a description and a link.
+         =============================================================== -->
+    <section id="projects">
+      <div class="container">
+        <span class="section-label">Projects</span>
+        <!-- EDIT: Section headline. -->
+        <h2>Selected work</h2>
+
+        <div class="projects-grid">
+
+          <!-- ---------- PROJECT 1 ---------- -->
+          <article class="project-card">
+            <!-- IMAGE: upload as images/project1.jpg. EDIT the alt text. -->
+            <img src="images/project1.jpg" alt="Description of project one image">
+            <div class="project-body">
+              <!-- EDIT: Project title. -->
+              <h3>Project One</h3>
+              <!-- EDIT: What it was, your role, and the result. -->
+              <p>One or two sentences: what you made, what your role was, and what happened because of it.</p>
+              <!-- EDIT: Replace # with the full link (starting with https://).
+                   No link? Delete this whole line. -->
+              <a class="project-link" href="#" target="_blank" rel="noopener">View project →</a>
+            </div>
+          </article>
+
+          <!-- ---------- PROJECT 2 ---------- -->
+          <article class="project-card">
+            <!-- IMAGE: upload as images/project2.jpg. EDIT the alt text. -->
+            <img src="images/project2.jpg" alt="Description of project two image">
+            <div class="project-body">
+              <!-- EDIT: Project title. -->
+              <h3>Project Two</h3>
+              <!-- EDIT: What it was, your role, and the result. -->
+              <p>One or two sentences: what you made, what your role was, and what happened because of it.</p>
+              <!-- EDIT: Replace # with the full link, or delete this line. -->
+              <a class="project-link" href="#" target="_blank" rel="noopener">View project →</a>
+            </div>
+          </article>
+
+          <!-- ---------- PROJECT 3 ---------- -->
+          <article class="project-card">
+            <!-- IMAGE: upload as images/project3.jpg. EDIT the alt text. -->
+            <img src="images/project3.jpg" alt="Description of project three image">
+            <div class="project-body">
+              <!-- EDIT: Project title. -->
+              <h3>Project Three</h3>
+              <!-- EDIT: What it was, your role, and the result. -->
+              <p>One or two sentences: what you made, what your role was, and what happened because of it.</p>
+              <!-- EDIT: Replace # with the full link, or delete this line. -->
+              <a class="project-link" href="#" target="_blank" rel="noopener">View project →</a>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ===============================================================
+         SECTION 4: SKILLS — what you bring.
+         Each <li> line is one skill. Add or delete whole lines.
+         Aim for 5 to 8.
+         =============================================================== -->
+    <section id="skills">
+      <div class="container">
+        <span class="section-label">Skills</span>
+        <!-- EDIT: Section headline. -->
+        <h2>What I bring</h2>
+
+        <ul class="skills-list">
+          <!-- EDIT: One skill per line. Keep the <li> and </li> on each. -->
+          <li>Skill One</li>
+          <li>Skill Two</li>
+          <li>Skill Three</li>
+          <li>Skill Four</li>
+          <li>Skill Five</li>
+          <li>Skill Six</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ===============================================================
+         SECTION 5: CONTACT — the action you want visitors to take.
+         =============================================================== -->
+    <section id="contact" class="contact">
+      <div class="container">
+        <span class="section-label">Contact</span>
+        <!-- EDIT: A direct invitation, e.g. "Let's build something together". -->
+        <h2>Let's connect</h2>
+
+        <!-- EDIT: One or two sentences on who should reach out and why. -->
+        <p>Tell visitors who should get in touch and what they should reach out about.</p>
+
+        <!-- EDIT: Replace you@example.com with your email (keep "mailto:"). -->
+        <a class="button" href="mailto:you@example.com">Email Me</a>
+
+        <!-- SOCIAL LINKS
+             EDIT: Replace each # with your full profile link (starting with https://).
+             Don't use a platform? Delete that whole <li> line.
+             Want another one? Copy a whole line and change the link and name. -->
+        <ul class="social-links">
+          <li><a href="#" target="_blank" rel="noopener">LinkedIn</a></li>
+          <li><a href="#" target="_blank" rel="noopener">Instagram</a></li>
+          <li><a href="#" target="_blank" rel="noopener">TikTok</a></li>
+          <li><a href="#" target="_blank" rel="noopener">YouTube</a></li>
+        </ul>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <!-- EDIT: Your name and the year. -->
+    <p>© 2026 Your Name</p>
+  </footer>
+
+</body>
+</html>
