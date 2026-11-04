@@ -13,7 +13,7 @@
   /* ===== CONTROL PANEL: COLORS ======================================= */
 
   /* EDIT: Primary brand color. Used for headings, buttons, highlights. */
-  --primary: #B5650D;
+  --primary: #000000;
 
   /* EDIT: Accent color. Used sparingly for hover states and details. */
   --accent: #00e5F0;
@@ -38,7 +38,7 @@
   --font-heading: "Sancreek", Display, serif;
 
   /* EDIT: Font for body text (paragraphs, buttons, links). */
-  --font-body: "System-UI", Tienne, public-sans;
+  --font-body: "System-UI", Arial, public-sans;
 
   /* ===== CONTROL PANEL: SHAPE ======================================== */
 
