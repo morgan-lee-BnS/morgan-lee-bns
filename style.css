@@ -25,7 +25,7 @@
   --surface: #000000;
 
   /* EDIT: Main text color. Keep it dark on a light background. */
-  --text: #1E1E1E;
+  --text: ##240F14;
 
   /* EDIT: Softer text color for captions and small details. */
   --text-muted: #5F6368;
