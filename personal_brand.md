@@ -8,44 +8,46 @@ Replace everything in [square brackets]. Delete the brackets.
 
 ## 1. Identity
 
-- **Name as it should appear:** [Jordan Lee]
-- **Role or title:** [Business Student & Content Creator]
+- **Name as it should appear:** Morgan Lee
+- - **Role or title:** Head leather-care consultant
 
 ## 2. Positioning
 
 One sentence. Who you are, who you help, how.
 
-> [I help small local businesses turn their story into social content that brings people through the door.]
+> I help working farm and ranch workers receive quick, efficient, equestrian equipment care.
 
 ## 3. Audience
 
 Who is the one person you most want to visit this site?
 
-- **Primary visitor:** [e.g. hiring manager at a marketing agency]
-- **What they need to see in 10 seconds:** [e.g. that I can plan and run a real campaign]
+- **Primary visitor:** People who work in the Horse industry
+- **What they need to see in 10 seconds:** Elimination of travel-time, and less need for downtime on a busy barn schedule that can become hectic at a moments notice.
 
 ## 4. Goal and Call to Action
 
-- **The one thing a visitor should do:** [e.g. email me about an internship]
-- **Button text:** [e.g. Work With Me]
+- **The one thing a client should do:** get a consultation, bring photos or a piece of their equipment for a pre-appointment assessment.
+- **Button text:** Book a Consultation
 
 ## 5. Point of View (POV)
 
 What do you believe about your field that not everyone does? Two or three sentences.
 
-> [Write it here.]
+>  We are extending the life of high-value investment pieces.
+> We are eliminating the hassle of transportation if it involves multiple or heavy pieces.
+> We deliver specialized, specific, on-site expertise.
 
 ## 6. Brand Words
 
-Three words a visitor should feel. These guide every color, font and photo choice.
+Three words a client should feel. These guide every colour, font and photo choice.
 
-1. [Word one]
-2. [Word two]
-3. [Word three]
+1. Care
+2. Details
+3. Confident
 
 ## 7. Voice
 
-- **How I sound:** [e.g. warm, direct, a little playful]
+- **How I sound:**  warm, direct, playful but knowledgeable
 - **How I never sound:** [e.g. corporate, salesy]
 
 ## 8. Colors
@@ -54,30 +56,33 @@ Hex codes only (a # and six characters). Test contrast: dark text on light backg
 
 | Role | Hex | Why it fits my brand |
 |---|---|---|
-| Primary | [#1F3A5F] | [reason] |
-| Accent | [#B84A32] | [reason] |
-| Background | [#FAF8F5] | [reason] |
-| Surface (cards) | [#FFFFFF] | [reason] |
-| Text | [#1E1E1E] | [reason] |
-| Muted text | [#5F6368] | [reason] |
+| Primary | #B5650D| It represents the colour of leather. |
+| Accent | #00E5F0 | most decorative aspects to do with leather are often decorated with this colour. |
+| Background | #FFF1CC | like the back, suede-side of leather. |
+| Surface (cards) | #000000| ties everything together. |
+| Text | #240F14| accents well with the neon turquoise |
+| Muted text | #70565C | for clicked-links |
 
 ## 9. Fonts
 
 Pick one pairing from the README, or two Google Fonts of your own.
 
-- **Heading font:** [Playfair Display]
-- **Body font:** [Inter]
-- **Why this pairing fits my brand words:** [reason]
+- **Heading font:** Display Serif; Sanccreek
+- **Body font:** Public-Sans
+- **Why this pairing fits my brand words:** Easy to read at a glance.
 
 ## 10. Photo Style
 
-- **Headshot:** [e.g. natural light, outdoors, smiling, plain background]
-- **Project images:** [e.g. screenshots, behind-the-scenes photos, finished products]
+- **Headshot:** natural light, outdoors, horses around in a fenced off pasture.
+- **Project images:** behind-the-scenes photos, finished products, Client Appreciation
 
 ## 11. Bio
 
-- **Short bio (1 sentence):** [For social profiles.]
-- **Long bio (3 short paragraphs):** [Who you are. What you believe. Where you're headed.]
+- **Short bio (1 sentence):** Saddles, Soap, Satisfaction.
+- **Long bio (3 short paragraphs):**
+> I have been around horses since I was 8 years old, and I have always wanted to work with and be around them.
+ I work at a ranch camp in the summer, and I am trained to work with both horses and tack.
+Most of my experience comes from taking lessons as a child, teaching camp-age kids, and working up close with the herd.
 
 ## 12. Projects
 
