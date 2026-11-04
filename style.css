@@ -28,22 +28,22 @@
   --text: ##240F14;
 
   /* EDIT: Softer text color for captions and small details. */
-  --text-muted: #5F6368;
+  --text-muted: #70565C;
 
   /* ===== CONTROL PANEL: FONTS ======================================== */
   /* If you change fonts here, ALSO change the font link near the top
      of index.html. The README shows how, with ready-made pairings.     */
 
   /* EDIT: Font for headings (your name, section titles). */
-  --font-heading: "Playfair Display", Georgia, serif;
+  --font-heading: "Sancreek", Display, serif;
 
   /* EDIT: Font for body text (paragraphs, buttons, links). */
-  --font-body: "Inter", Arial, sans-serif;
+  --font-body: "System-UI", Tienne, public-sans;
 
   /* ===== CONTROL PANEL: SHAPE ======================================== */
 
   /* EDIT: Corner roundness. 0px = sharp and formal, 24px = soft and friendly. */
-  --radius: 12px;
+  --radius: 25px;
 
   /* ===== END OF CONTROL PANEL — no edits needed below this line ====== */
 
