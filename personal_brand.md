@@ -59,7 +59,7 @@ Hex codes only (a # and six characters). Test contrast: dark text on light backg
 | Primary | #B5650D| It represents the colour of leather. |
 | Accent | #00E5F0 | most decorative aspects to do with leather are often decorated with this colour. |
 | Background | #FFF1CC | like the back, suede-side of leather. |
-| Surface (cards) | #000000| ties everything together. |
+| Surface (cards) | #B5650D| ties everything together. |
 | Text | #240F14| accents well with the neon turquoise |
 | Muted text | #70565C | for clicked-links |
 
