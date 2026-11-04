@@ -13,16 +13,16 @@
   /* ===== CONTROL PANEL: COLORS ======================================= */
 
   /* EDIT: Primary brand color. Used for headings, buttons, highlights. */
-  --primary: #1F3A5F;
+  --primary: #B560D;
 
   /* EDIT: Accent color. Used sparingly for hover states and details. */
-  --accent: #B84A32;
+  --accent: #00e5F0;
 
   /* EDIT: Page background. Light colors are easiest to read. */
-  --background: #FAF8F5;
+  --background: #FFF1CC;
 
   /* EDIT: Background for cards and alternating sections. */
-  --surface: #FFFFFF;
+  --surface: #000000;
 
   /* EDIT: Main text color. Keep it dark on a light background. */
   --text: #1E1E1E;
